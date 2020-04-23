@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "日期类和时间类", "日期类和时间类.vcxproj", "{D4B27ECF-F89E-4E26-B241-AB967BD14D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B27ECF-F89E-4E26-B241-AB967BD14D25}.Debug|x64.ActiveCfg = Debug|x64
+		{D4B27ECF-F89E-4E26-B241-AB967BD14D25}.Debug|x64.Build.0 = Debug|x64
+		{D4B27ECF-F89E-4E26-B241-AB967BD14D25}.Debug|x86.ActiveCfg = Debug|Win32
+		{D4B27ECF-F89E-4E26-B241-AB967BD14D25}.Debug|x86.Build.0 = Debug|Win32
+		{D4B27ECF-F89E-4E26-B241-AB967BD14D25}.Release|x64.ActiveCfg = Release|x64
+		{D4B27ECF-F89E-4E26-B241-AB967BD14D25}.Release|x64.Build.0 = Release|x64
+		{D4B27ECF-F89E-4E26-B241-AB967BD14D25}.Release|x86.ActiveCfg = Release|Win32
+		{D4B27ECF-F89E-4E26-B241-AB967BD14D25}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD63F7B3-9D25-4148-B1A5-CC705C9AE6A5}
+	EndGlobalSection
+EndGlobal
