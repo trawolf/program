@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "构造和析构函数调用顺序分析", "构造和析构函数调用顺序分析.vcxproj", "{7A698F05-14CA-42E7-BE4D-A25DD3525661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A698F05-14CA-42E7-BE4D-A25DD3525661}.Debug|x64.ActiveCfg = Debug|x64
+		{7A698F05-14CA-42E7-BE4D-A25DD3525661}.Debug|x64.Build.0 = Debug|x64
+		{7A698F05-14CA-42E7-BE4D-A25DD3525661}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A698F05-14CA-42E7-BE4D-A25DD3525661}.Debug|x86.Build.0 = Debug|Win32
+		{7A698F05-14CA-42E7-BE4D-A25DD3525661}.Release|x64.ActiveCfg = Release|x64
+		{7A698F05-14CA-42E7-BE4D-A25DD3525661}.Release|x64.Build.0 = Release|x64
+		{7A698F05-14CA-42E7-BE4D-A25DD3525661}.Release|x86.ActiveCfg = Release|Win32
+		{7A698F05-14CA-42E7-BE4D-A25DD3525661}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598A1886-7376-4CC7-B672-7C76146BD705}
+	EndGlobalSection
+EndGlobal
