@@ -1,0 +1,14 @@
+【问题描述】请你设计一个数据库类Database和账号信息类Info
+
+Info类包括私有成员变量：id(int), username(char[]), password(char[]). 后两个字符串长度均小于10
+
+Database类包括私有成员变量：info(Info*), count(int)表示现有账号数量, capacity(int)表示数据库总容量
+
+Database类包括成员函数：
+
+bool push_info(Info f)向info添加f，count加一(如果id重复或超出数据库容量则取消添加)
+
+void get_info(int m)获取id为m的账号信息，如果存在则打印成为一行
+
+bool delete_info(int m)删除id为m的账号信息，并将m之后的数据前移，如果删除成功返回true，如果不存在id为m的，则返回false
+
