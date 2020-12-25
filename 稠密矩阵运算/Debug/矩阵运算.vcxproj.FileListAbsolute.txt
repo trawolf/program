@@ -1,0 +1,4 @@
+C:\Users\59217\source\repos\矩阵运算\Debug\矩阵运算.exe
+C:\Users\59217\source\repos\矩阵运算\Debug\矩阵运算.pdb
+C:\Users\59217\source\repos\稠密矩阵运算\Debug\矩阵运算.exe
+C:\Users\59217\source\repos\稠密矩阵运算\Debug\矩阵运算.pdb
